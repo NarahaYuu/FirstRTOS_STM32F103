@@ -76,5 +76,5 @@ Diagram ini menunjukkan bagaimana setiap task berinteraksi dengan hardware dan s
 
 <figure>
   <figcaption>Short Video</figcaption>
-  <img src="shortvideo.gif" alt="Demonstrasi Sistem" width="300">
+  <img src="shortvideo.gif" alt="Demonstrasi Sistem" width="200">
 </figure>
