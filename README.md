@@ -71,3 +71,10 @@ Diagram ini menunjukkan bagaimana setiap task berinteraksi dengan hardware dan s
   <figcaption>Gambar 2: Implementasi Hardware</figcaption>
   <img src="hardware.jpeg" width="700" alt="Gambar Hardware">
 </figure>
+
+## Documentation
+
+<figure>
+  <img src="shortvideo.gif" alt="Demonstrasi Sistem" width="600">
+  <figcaption>Short Video</figcaption>
+</figure>
