@@ -64,4 +64,4 @@ Diagram ini menunjukkan bagaimana setiap task berinteraksi dengan hardware dan s
 
 <img src="kelompok10.png" width="500" alt="Skema Rangkaian">
 
-![Gambar Hardware](hardware.jpeg)
+<img src="hardware.jpeg" width="500" alt="Hardware">
