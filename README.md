@@ -63,11 +63,11 @@ Diagram ini menunjukkan bagaimana setiap task berinteraksi dengan hardware dan s
 ## Gambar Rangkaian
 
 <figure>
-  <img src="kelompok10.png" width="500" alt="Skema Rangkaian">
   <figcaption>Gambar 1: Skema Rangkaian Sistem</figcaption>
+  <img src="kelompok10.png" width="500" alt="Skema Rangkaian">
 </figure>
-
+</br>
 <figure>
-  <img src="hardware.jpeg" width="500" alt="Gambar Hardware">
   <figcaption>Gambar 2: Implementasi Hardware</figcaption>
+  <img src="hardware.jpeg" width="500" alt="Gambar Hardware">
 </figure>
